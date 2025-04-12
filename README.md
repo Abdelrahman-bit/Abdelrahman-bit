@@ -13,8 +13,7 @@
 - 🎯 Goal: Become a professional full-stack developer  
 - 💬 Ask me about: React, APIs, and 3D Web using Three.js  
 - 📫 How to reach me:  
-  - 📧 [abdelrahman.mohamed4030@gmail.com](mailto:abdelrahman.mohamed4030@gmail.com)  
-  - 📱 +20 100 874 0522  
+  - 📧 [abdelrahman.mohamed4030@gmail.com](mailto:abdelrahman.mohamed4030@gmail.com)   
   - 💼 [LinkedIn](https://www.linkedin.com/in/abdelrahman-mohamed-soliman-705b7a20b/)  
   - 🌐 [My Portfolio](https://abdelrahman-portfolio-3d.netlify.app/)
 
