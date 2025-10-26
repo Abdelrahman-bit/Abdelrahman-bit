@@ -1,6 +1,6 @@
 # 👋 Hello World, I'm Abdelrahman Mohamed Abdelhamed!
 
-🌟 A passionate **Junior Web Developer** with a strong desire to grow into a **Senior Full-Stack Developer**.  
+🌟 A passionate **Web Developer** with a strong desire to grow into a **Senior Full-Stack Developer**.  
 🎓 I hold a Bachelor's degree in Business Administration, but my heart beats for coding!  
 🚀 One year of hands-on experience building responsive, dynamic, and visually appealing web apps.
 
